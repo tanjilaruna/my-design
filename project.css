@@ -1,0 +1,68 @@
+.first-section{
+  text-align: center;
+
+}
+.first-section h1{
+   font-size: 50px;
+   color: rgb(69, 16, 153);
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;  
+}
+img{
+   width:100%;
+   height:400px;
+}
+
+.second-section{
+   display: flex;
+}
+.second-section h2{
+   color:rgb(245, 245, 252);
+   text-align: center;
+   font-style: italic;
+   font-size: 20px;
+   background-color: rgb(13, 14, 12);
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   border: 2px solid rgb(206, 205, 205);
+   margin: 3px;padding: 2px;
+}
+.blog{
+   color: darkblue;
+   width:21%;
+   text-align: justify;
+   margin: 10px;  
+}
+.blog img{
+   height:280px;
+  width:260px;
+  border:2px solid rgb(245, 242, 242);
+  padding: 2px;
+  margin:2px;
+}
+.blog-one{
+   color: rgb(5, 5, 43);
+   font-size: 30px;
+    width:22%;
+   text-align:justify;
+      margin-top: 20px;
+      
+}
+.blog-one img{
+   height:350px;
+  width:260px;
+  border:2px solid rgb(245, 242, 242);
+  padding: 2px;
+  margin:2px;
+}
+.third-section{
+   display: flex;
+}
+.footer{
+   text-align:center;
+height: 140px;
+border: 1px solid rosybrown;
+color:black;
+background-color: rgb(52, 46, 104);
+}
+footer p{
+   padding-top: 65px;
+}
